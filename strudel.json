@@ -1,4 +1,24 @@
 {
   "_base": "https://raw.githubusercontent.com/FaerieGe/meow_dataset_strudel/master/",
-  "kaggle_cat_10_0": "meow/kaggle_cat_10_0.wav"
+  "kaggle_cat_10_0": "meow/kaggle_cat_10_0.wav",
+  "kaggle_cat_10_1": "meow/kaggle_cat_10_1.wav",
+  "kaggle_cat_10_2": "meow/kaggle_cat_10_2.wav",
+  "kaggle_cat_10_3": "meow/kaggle_cat_10_3.wav",
+  "kaggle_cat_10_4": "meow/kaggle_cat_10_4.wav",
+  "kaggle_cat_10_5": "meow/kaggle_cat_10_5.wav",
+  "kaggle_cat_10_6": "meow/kaggle_cat_10_6.wav",
+  "kaggle_cat_11_0": "meow/kaggle_cat_11_0.wav",
+  "kaggle_cat_12_0": "meow/kaggle_cat_12_0.wav",
+  "kaggle_cat_13_0": "meow/kaggle_cat_13_0.wav",
+  "kaggle_cat_14_0": "meow/kaggle_cat_14_0.wav",
+  "kaggle_cat_14_1": "meow/kaggle_cat_14_1.wav",
+  "kaggle_cat_14_2": "meow/kaggle_cat_14_2.wav",
+  "kaggle_cat_14_3": "meow/kaggle_cat_14_3.wav",
+  "kaggle_cat_14_4": "meow/kaggle_cat_14_4.wav",
+  "kaggle_cat_14_5": "meow/kaggle_cat_14_5.wav",
+  "kaggle_cat_14_6": "meow/kaggle_cat_14_6.wav",
+  "kaggle_cat_14_7": "meow/kaggle_cat_14_7.wav",
+  "kaggle_cat_14_8": "meow/kaggle_cat_14_8.wav",
+  "kaggle_cat_14_9": "meow/kaggle_cat_14_9.wav",
+  "kaggle_cat_14_10": "meow/kaggle_cat_14_10.wav"
 }
